@@ -5,4 +5,4 @@ Designed for developers.
 
 Sample Code
 
-![Simple Mono Font](images/simple_mono.png)
+![Simple Mono Font](images/code.png)
